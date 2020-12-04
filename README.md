@@ -16,3 +16,8 @@ Contoh operasi yang lebih sederhana yaitu ketika Anda mengakses sebuah halaman w
 Update (U) adalah proses mengubah data yang berada di dalam database. Contoh proses ini ketika Anda mengubah profil di dalam akun sosial media. Saat Anda klik “Ubah”,  website akan mengirimkan proses Update ke dalam database. Kemudian database meresponnya dengan mengubah data lama menjadi data baru yang Anda tambahkan melalui halaman profil.
 Delete (D) adalah proses untuk menghapus data yang ada di database. Proses ini mirip dengan Update, bedanya, proses Delete akan mengubah data yang ada di database menjadi ‘tidak ada’.
 Itulah gambaran kecil penggunaan CRUD di website.
+
+cara menggunakan 
+step 1 buka localhost/phpmyadmin di browser crome teman2 lalu buat database dan import weblpti.sql ke database yang teman2 buat
+step 2 buka local disk c di komputer teman2 cari folder xampp->htdocs->paste dalam htdocs
+step 3 aktif kan apache dan mysql teman2 lalu buka localhost/namafolder teman2 oya di koneksi.php jangan lupa di sesuaikan nama database teman2 ya
