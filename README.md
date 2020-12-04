@@ -21,3 +21,10 @@ cara menggunakan
 step 1 buka localhost/phpmyadmin di browser crome teman2 lalu buat database dan import weblpti.sql ke database yang teman2 buat
 step 2 buka local disk c di komputer teman2 cari folder xampp->htdocs->paste dalam htdocs
 step 3 aktif kan apache dan mysql teman2 lalu buka localhost/namafolder teman2 oya di koneksi.php jangan lupa di sesuaikan nama database teman2 ya
+
+
+created by :https://github.com/wahyutaqdirulaziz
+website : www.ayokreatif.id
+my portfolio : https://wahyutaqdirulaziz.github.io/
+youtube : https://www.youtube.com/channel/UCpldt2nDOtx73kQHiSbAe_A
+study in : fakultas teknik universitas hamzanwadi prodi teknik komputer
